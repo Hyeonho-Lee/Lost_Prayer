@@ -1,0 +1,101 @@
+﻿{
+	"ItemTable":
+		[
+		  {
+		    "Index": 0,
+		    "ID_Number": 110000,
+		    "Name": "코인",
+		    "Percentage": 99,
+		    "Rating": "normal",
+		    "Info": "게임 내의 유일한 재화이다.",
+		    "Coin": 0,
+		    "HP": 0,
+		    "ATK_Power": 0,
+		    "ATK_Speed": 0
+		  },
+		  {
+		    "Index": 1,
+		    "ID_Number": 110207,
+		    "Name": "젤라틴 덩어리",
+		    "Percentage": 15,
+		    "Rating": "normal",
+		    "Info": "슬라임의 몸에서 떨어진 젤라틴 덩어리 왠지 피부에 좋을 껏 같다.",
+		    "Coin": 1,
+		    "HP": 0,
+		    "ATK_Power": 0.5,
+		    "ATK_Speed": -0.02
+		  },
+		  {
+		    "Index": 2,
+		    "ID_Number": 110208,
+		    "Name": "슬라임 머리장식",
+		    "Percentage": 15,
+		    "Rating": "normal",
+		    "Info": "슬라임의 머리에 달려있는 장식. 어린아이에게 선물로 주어보자",
+		    "Coin": 2,
+		    "HP": 1,
+		    "ATK_Power": 0,
+		    "ATK_Speed": 0
+		  },
+		  {
+		    "Index": 3,
+		    "ID_Number": 110209,
+		    "Name": "슬라임 점액질",
+		    "Percentage": 6,
+		    "Rating": "nomal",
+		    "Info": "슬라임 몸에서 떨어진 점액질. 기분 나쁘게 끈적거린다.",
+		    "Coin": 2,
+		    "HP": 0,
+		    "ATK_Power": 1,
+		    "ATK_Speed": -0.05
+		  },
+		  {
+		    "Index": 4,
+		    "ID_Number": 110210,
+		    "Name": "떨어진 기계 부품",
+		    "Percentage": 3,
+		    "Rating": "rare",
+		    "Info": "슬라임 몸에 흡수된 기계 부품. 상점에 꽤 비싸게 나갈껏 같다.",
+		    "Coin": 5,
+		    "HP": 0,
+		    "ATK_Power": 1.5,
+		    "ATK_Speed": -0.05
+		  },
+		  {
+		    "Index": 5,
+		    "ID_Number": 110211,
+		    "Name": "부서진 루비 조각",
+		    "Percentage": 2,
+		    "Rating": "epic",
+		    "Info": "슬라임의 에너지원이 되는 루비의 조각들. 이제는 쓸모가 없다.",
+		    "Coin": 6,
+		    "HP": 3,	
+		    "ATK_Power": 1,
+		    "ATK_Speed": 0
+		  },
+		  {
+		    "Index": 6,
+		    "ID_Number": 110212,
+		    "Name": "낡은 화살",
+		    "Percentage": 17,
+		    "Rating": "rare",
+		    "Info": "슬라임이 삼켜버린 낡은 화살. 아직 쓸만하다.",
+		    "Coin": 6,
+		    "HP": 1,
+		    "ATK_Power": -1.5,
+		    "ATK_Speed": 0.15
+		  },
+		  {
+		    "Index": 7,
+		    "ID_Number": 100000,
+		    "Name": "???",
+		    "Percentage": 0,
+		    "Rating": "none",
+		    "Info": "아직은 아무것도 모른다.",
+		    "Coin": 0,
+		    "HP": 0,
+		    "ATK_Power": 0,
+		    "ATK_Speed": 0
+		  }
+	]
+}

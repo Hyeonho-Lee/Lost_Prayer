@@ -1,0 +1,101 @@
+﻿{
+	"ItemTable":
+	[
+		{
+		    "Index": 0,
+		    "ID_Number": 110000,
+		    "Name": "코인",
+		    "Percentage": 99,
+		    "Rating": "normal",
+		    "Info": "게임 내의 유일한 재화이다.",
+		    "Coin": 0,
+		    "HP": 0,
+		    "ATK_Power": 0,
+		    "ATK_Speed": 0
+		},
+	  {
+	    "Index": 1,
+	    "ID_Number": 110313,
+	    "Name": "불타는 심장",
+	    "Percentage": 20,
+	    "Rating": "normal",
+	    "Info": "골렘의 심장. 막강한 에너지 원이다.",
+	    "Coin": 1,
+	    "HP": 0,
+	    "ATK_Power": 1.5,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 2,
+	    "ID_Number": 110314,
+	    "Name": "골렘의 불 머리장식",
+	    "Percentage": 3,
+	    "Rating": "set",
+	    "Info": "골렘의 머리뼈로 만든 머리장식. 화염 내성을 올려준다.",
+	    "Coin": 2,
+	    "HP": 30,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 3,
+	    "ID_Number": 110315,
+	    "Name": "골렘의 불타는 오른손 무기",
+	    "Percentage": 5,
+	    "Rating": "set",
+	    "Info": "골렘의 오른손으로 만든 둔기. 묵직한 느낌이 일품!",
+	    "Coin": 2,
+	    "HP": 0,
+	    "ATK_Power": 0.5,
+	    "ATK_Speed": -0.15
+	  },
+	  {
+	    "Index": 4,
+	    "ID_Number": 110316,
+	    "Name": "골렘의 용암 갑주",
+	    "Percentage": 3,
+	    "Rating": "set",
+	    "Info": "골렘의 몸으로 만든 갑주. 겉과 내부가 전부 단단해지는 느낌이다.",
+	    "Coin": 5,
+	    "HP": 40,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0.5
+	  },
+	  {
+	    "Index": 5,
+	    "ID_Number": 110317,
+	    "Name": "골렘의 그을러진 부츠",
+	    "Percentage": 3,
+	    "Rating": "set",
+	    "Info": "골렘의 꼬리로 만든 그을린 부츠. 용암을 밟아도 뜨겁지 않다.",
+	    "Coin": 6,
+	    "HP": 20,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0.15
+	  },
+	  {
+	    "Index": 6,
+	    "ID_Number": 110318,
+	    "Name": "골렘의 용암석 어깨 장식",
+	    "Percentage": 3,
+	    "Rating": "rare",
+	    "Info": "골렘의 열기에 재탄생한 암석으로 만든 어깨장식. 투박하지만 남자답다.",
+	    "Coin": 6,
+	    "HP": 20,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 7,
+	    "ID_Number": 110318,
+	    "Name": "용암석",
+	    "Percentage": 30,
+	    "Rating": "rare",
+	    "Info": "골렘의 열기에 재탄생한 암석.",
+	    "Coin": 20,
+	    "HP": 0,
+	    "ATK_Power": 0.5,
+	    "ATK_Speed": 0
+	  }
+	]
+}

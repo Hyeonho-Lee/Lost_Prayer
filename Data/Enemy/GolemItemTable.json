@@ -1,0 +1,77 @@
+﻿{
+	"ItemTable":
+	[
+	  {
+	    "Index": 0,
+	    "ID_Number": 110000,
+	    "Name": "코인",
+	    "Percentage": 99,
+	    "Rating": "nomal",
+	    "Info": "게임내의 유일한 재화이다.",
+	    "Coin": 0,
+	    "HP": 0,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 1,
+	    "ID_Number": 110420,
+	    "Name": "딱딱한 돌 심장",
+	    "Percentage": 5,
+	    "Rating": "normal",
+	    "Info": "스톤골램의 심장. 골렘의 마력원, 딱딱하지만 왠지모르게 따뜻하다.",
+	    "Coin": 1,
+	    "HP": 0,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0.05
+	  },
+	  {
+	    "Index": 2,
+	    "ID_Number": 110421,
+	    "Name": "골렘의 돌팔로 만든 도끼",
+	    "Percentage": 50,
+	    "Rating": "rare",
+	    "Info": "골렘의 무거운 돌팔. 강력하지만 상당히 무겁다,",
+	    "Coin": 2,
+	    "HP": 30,
+	    "ATK_Power": 0.1,
+	    "ATK_Speed": -0.15
+	  },
+	  {
+	    "Index": 3,
+	    "ID_Number": 110422,
+	    "Name": "골렘에 박힌 사파이어 수정",
+	    "Percentage": 10,
+	    "Rating": "epic",
+	    "Info": "골렘의 몸에 박힌 사파이어 수정. 방어력을 올려주는 힘이 있다.",
+	    "Coin": 2,
+	    "HP": 75,
+	    "ATK_Power": 0.5,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 4,
+	    "ID_Number": 110423,
+	    "Name": "골렘에 박힌 다이아",
+	    "Percentage": 1,
+	    "Rating": "epic",
+	    "Info": "골렘에게 박힌 다이아. 매우 희귀하며, 공격력을 올려주는 힘이 있다.",
+	    "Coin": 10,
+	    "HP": 0,
+	    "ATK_Power": 1.5,
+	    "ATK_Speed": 0
+	  },
+	  {
+	    "Index": 5,
+	    "ID_Number": 100000,
+	    "Name": "???",
+	    "Percentage": 0,
+	    "Rating": "none",
+	    "Info": "아직 아무것도 모른다.",
+	    "Coin": 0,
+	    "HP": 0,
+	    "ATK_Power": 0,
+	    "ATK_Speed": 0
+	  }
+	]
+}

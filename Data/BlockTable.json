@@ -1,0 +1,291 @@
+﻿{
+	"BlockTable":
+	[
+	{
+	 "Index": 0,
+	 "ID_Number": 310000,
+	 "Name": "기본 강화 LV1",
+	 "Lv": 1,
+	 "Property": "none",
+	 "Info": "가장 기본적인 블록으로 공격력과 공격속도를 강화한다. 공격력: +0.5 , 공격속도: +0.1, 구메비용: 50",
+	 "Coin": 50,
+	 "ATK_Power": 0.5,
+	 "ATK_Speed": 0.1
+	},
+	{
+	 "Index": 1,
+	 "ID_Number": 310001,
+	 "Name": "기본 강화 LV2",
+	 "Lv": 2,
+	 "Property": "none",
+    "Info": "가장 기본적인 블록으로 공격력과 공격속도를 강화한다.",
+    "Coin": 1,
+    "ATK_Power": 1,
+    "ATK_Speed": 0.1
+	},
+	{
+	 "Index": 2,
+	"ID_Number": 310002,
+	 "Name": "기본 강화 LV3",
+	 "Lv": 3,
+	 "Property": "none",
+	 "Info": "가장 기본적인 블록으로 공격력과 공격속도를 강화한다.",
+	 "Coin": 1,
+	 "ATK_Power": 1,
+    "ATK_Speed": 0.1
+	  },
+	{
+	 "Index": 3,
+	 "ID_Number": 310100,
+	 "Name": "기본 강화+ LV1",
+	 "Lv": 1,
+	 "Property": "none",
+	 "Info": "기본 블록을 한번더 강화한 블록이다. 공격력: +6 , 공격속도: +1, 구메비용: 500",
+	 "Coin": 500,
+	 "ATK_Power": 6,
+	 "ATK_Speed": 1
+	},
+	{
+	 "Index": 4,
+	 "ID_Number": 310101,
+	 "Name": "기본 강화+ LV2",
+	 "Lv": 2,
+	 "Property": "none",
+	 "Info": "기본 블록을 한번더 강화한 블록이다.",
+	 "Coin": 2,
+	 "ATK_Power": 1.5,
+	 "ATK_Speed": 0.2
+	},
+	{
+	 "Index": 5,
+	 "ID_Number": 310102,
+	 "Name": "기본 강화+ LV3",
+	 "Lv": 3,
+	 "Property": "none",
+	 "Info": "기본 블록을 한번더 강화한 블록이다.",
+	 "Coin": 2,
+	 "ATK_Power": 1.5,
+	 "ATK_Speed": 0.2
+	 },
+	{
+    "Index": 6,
+    "ID_Number": 310200,
+    "Name": "기본 강화++ LV1",
+    "Lv": 1,
+    "Property": "none",
+    "Info": "기본 블록을 두번더 강화한 블록이다. 공격력: +2 , 구메비용: 3",
+    "Coin": 3,
+    "ATK_Power": 2,
+    "ATK_Speed": 0.3
+  },
+  {
+    "Index": 7,
+    "ID_Number": 310201,
+    "Name": "기본 강화++ LV2",
+    "Lv": 2,
+    "Property": "none",
+    "Info": "기본 블록을 두번더 강화한 블록이다.",
+    "Coin": 3,
+    "ATK_Power": 2,
+    "ATK_Speed": 0.3
+  },
+  {
+    "Index": 8,
+    "ID_Number": 310202,
+    "Name": "기본 강화++ LV3",
+    "Lv": 3,
+    "Property": "none",
+    "Info": "기본 블록을 두번더 강화한 블록이다.",
+    "Coin": 3,
+    "ATK_Power": 2,
+    "ATK_Speed": 0.3
+  },
+  {
+    "Index": 9,
+    "ID_Number": 310300,
+    "Name": "기본 공격력 강화 LV1",
+    "Lv": 1,
+    "Property": "none",
+    "Info": "블록의 공격력을 메우 크게 강화한다. 공격력: +3",
+    "Coin": 0,
+    "ATK_Power": 3,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 10,
+    "ID_Number": 310301,
+    "Name": "기본 공격력 강화 LV2",
+    "Lv": 2,
+    "Property": "none",
+    "Info": "기본 블록의 공격력을 강화한다.",
+    "Coin": 4,
+    "ATK_Power": 3,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 11,
+    "ID_Number": 310302,
+    "Name": "기본 공격력 강화 LV3",
+    "Lv": 3,
+    "Property": "none",
+    "Info": "기본 블록의 공격력을 강화한다.",
+    "Coin": 4,
+    "ATK_Power": 3,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 12,
+    "ID_Number": 310400,
+    "Name": "기본 공격속도 강화 LV1",
+    "Lv": 1,
+    "Property": "none",
+    "Info": "블록의 공격속도를 메우 크게 강화한다. 공격속도: +1",
+    "Coin": 0,
+    "ATK_Power": 0,
+    "ATK_Speed": 1
+  },
+  {
+    "Index": 13,
+    "ID_Number": 310401,
+    "Name": "기본 공격속도 강화 LV2",
+    "Lv": 2,
+    "Property": "none",
+    "Info": "기본 블록의 공격속도를 강화한다.",
+    "Coin": 4,
+    "ATK_Power": 0,
+    "ATK_Speed": 0.5
+  },
+  {
+    "Index": 14,
+    "ID_Number": 310402,
+    "Name": "기본 공격속도 강화 LV3",
+    "Lv": 3,
+    "Property": "none",
+    "Info": "기본 블록의 공격속도를 강화한다.",
+    "Coin": 4,
+    "ATK_Power": 0,
+    "ATK_Speed": 0.5
+  },
+  {
+    "Index": 15,
+    "ID_Number": 310500,
+    "Name": "속성 강화",
+    "Lv": 0,
+    "Property": "none",
+    "Info": "블록에 속성을 부여한다. 아직은 아무런 효과가 없다.",
+    "Coin": 3,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 16,
+    "ID_Number": 310600,
+    "Name": "화염 속성 강화 LV1",
+    "Lv": 1,
+    "Property": "Fire",
+    "Info": "블록에 화염 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 17,
+    "ID_Number": 310601,
+    "Name": "화염 속성 강화 LV2",
+    "Lv": 2,
+    "Property": "Fire",
+    "Info": "블록에 화염 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 18,
+    "ID_Number": 310602,
+    "Name": "화염 속성 강화 LV3",
+    "Lv": 3,
+    "Property": "Fire",
+    "Info": "블록에 화염 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 19,
+    "ID_Number": 310700,
+    "Name": "물 속성 강화 LV1",
+    "Lv": 1,
+    "Property": "Water",
+    "Info": "블록에 물 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 20,
+    "ID_Number": 310701,
+    "Name": "물 속성 강화 LV2",
+    "Lv": 2,
+    "Property": "Water",
+    "Info": "블록에 물 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 21,
+    "ID_Number": 310702,
+    "Name": "물 속성 강화 LV3",
+    "Lv": 3,
+    "Property": "Water",
+    "Info": "블록에 물 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 22,
+    "ID_Number": 310800,
+    "Name": "독 속성 강화 LV1",
+    "Lv": 1,
+    "Property": "Poison",
+    "Info": "블록에 독 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 23,
+    "ID_Number": 310801,
+    "Name": "독 속성 강화 LV2",
+    "Lv": 2,
+    "Property": "Poison",
+    "Info": "블록에 독 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 24,
+    "ID_Number": 310802,
+    "Name": "독 속성 강화 LV3",
+    "Lv": 3,
+    "Property": "Poison",
+    "Info": "블록에 독 속성을 부여한다.",
+    "Coin": 5,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  },
+  {
+    "Index": 25,
+    "ID_Number": 310900,
+    "Name": "코인증가 LV1",
+    "Lv": 1,
+    "Property": "none",
+    "Info": "많은양의 코인을 얻는다. 코인: +200",
+    "Coin": -200,
+    "ATK_Power": 0,
+    "ATK_Speed": 0
+  }
+]
+}

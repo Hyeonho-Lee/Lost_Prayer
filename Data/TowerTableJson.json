@@ -1,0 +1,29 @@
+﻿{
+	"TowerTable":
+	[
+		{
+			"Index": 0,
+			"ID_Number": 210000,
+			"Name": "이데아_0",
+			"Percentage": 99,
+			"Rating": "normal",
+			"Info": "원거리형 유물로 자신의 주변에 특정 물체를 형상화하여 적에게 날린다.",
+			"Coin": 0,
+			"HP": 100,
+			"ATK_Power": 1,
+			"ATK_Speed": 0.5
+		},
+		{
+			"Index": 1,
+			"ID_Number": 200000,
+			"Name": "???",
+			"Percentage": 0,
+			"Rating": "none",
+			"Info": "아직은 아무것도 모른다.",
+			"Coin": 0,
+			"HP": 0,
+			"ATK_Power": 0,
+			"ATK_Speed": 0
+		}
+	]
+}

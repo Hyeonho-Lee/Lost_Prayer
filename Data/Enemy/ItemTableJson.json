@@ -1,0 +1,113 @@
+﻿{
+	"ItemTable":
+	[
+	  {
+			"Index": 0,
+			"ID_Number": 110000,
+			"Name": "코인",
+			"Percentage": 99,
+			"Rating": "normal",
+			"Info": "게임 내의 유일한 재화이다.",
+			"Coin": 0,
+			"HP": 0,
+			"ATK_Power": 0,
+			"ATK_Speed": 0
+	  },
+	  {
+			"Index": 1,
+			"ID_Number": 110001,
+			"Name": "뼈다구",
+			"Percentage": 15,
+			"Rating": "normal",
+			"Info": "스켈레톤을 잡다보니 부서진 갈비뼈. 쓸모는 있을까….",
+			"Coin": 1,
+			"HP": 0,
+			"ATK_Power": 0.5,
+			"ATK_Speed": -0.02
+	  },
+	  {
+			"Index": 2,
+			"ID_Number": 110002,
+			"Name": "두개골",
+			"Percentage": 5,
+			"Rating": "normal",
+			"Info": "스켈레톤을 잡다보니 굴러 떨어진 머리. 너무 각져있다.",
+			"Coin": 2,
+			"HP": 1,
+			"ATK_Power": 0,
+			"ATK_Speed": 0
+	  },
+	  {
+			"Index": 3,
+			"ID_Number": 120003,
+			"Name": "낡은 검",
+			"Percentage": 10,
+			"Rating": "rare",
+			"Info": "스켈레톤이 사용하던 낡은검. 한번만 휘두르면 부서질것만 같다.",
+			"Coin": 3,
+			"HP": 0,
+			"ATK_Power": 0.5,
+			"ATK_Speed": -0.02
+	  },
+	  {
+			"Index": 4,
+			"ID_Number": 120004,
+			"Name": "의외로 괜찮은 검",
+			"Percentage": 5,
+			"Rating": "rare",
+			"Info": "몇번 안쓴 검같다. 더사용해도 될것이다.",
+			"Coin": 4,
+			"HP": 0,
+			"ATK_Power": 1,
+			"ATK_Speed": -0.05
+	  },
+	  {
+			"Index": 5,
+			"ID_Number": 130005,
+			"Name": "금이빨",
+			"Percentage": 2,
+			"Rating": "epic",
+			"Info": "스켈레톤의 두개골에서 떨어진 이빨. 자세히보니 반짝 빛나고 있다.",
+			"Coin": 5,
+			"HP": 3,
+			"ATK_Power": 1,
+			"ATK_Speed": 0
+	  },
+	  {
+			"Index": 6,
+			"ID_Number": 120006,
+			"Name": "허름한 망토",
+			"Percentage": 10,
+			"Rating": "rare",
+			"Info": "스켈레톤이 사용하던 낡은 망토. 과거에 제국 마크가 그려져있다.",
+			"Coin": 6,
+			"HP": 1,
+			"ATK_Power": -2,
+			"ATK_Speed": 0.25
+	  },
+	  {
+			"Index": 7,
+			"ID_Number": 130007,
+			"Name": "눈에 박힌 루비",
+			"Percentage": 1,
+			"Rating": "epic",
+			"Info": "스켈레톤의 눈안쪽에 박힌 루비. 이곳에 영혼을 담아둔것같다.",
+			"Coin": 7,
+			"HP": 3,
+			"ATK_Power": 2,
+			"ATK_Speed": 0
+	  },
+	  {
+			"Index": 8,
+			"ID_Number": 100000,
+			"Name": "???",
+			"Percentage": 0,
+			"Rating": "none",
+			"Info": "아직은 아무것도 모른다.",
+			"Coin": 0,
+			"HP": 0,
+			"ATK_Power": 0,
+			"ATK_Speed": 0
+	  }
+	]
+}

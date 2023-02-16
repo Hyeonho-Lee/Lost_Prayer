@@ -1,0 +1,20 @@
+﻿{
+	"PlayerData":
+	[
+	  {
+		"Index": 0,
+		"ID_Number": 0,
+		"Name": 0,
+		"Info": 0,
+		"Lv": 0,
+		"Percentage": 0,
+		"Health": 0,
+		"Block_Power": 0,
+		"Block_Speed": 0,
+		"Tower_Power": 0,
+		"Tower_Speed": 0,
+		"Coin": 0,
+		"property": 0
+	  }
+	]
+}
